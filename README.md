@@ -63,8 +63,6 @@ Utilizamos o quadro do [Trello](https://trello.com/b/nLsce7QU/metodologias-%C3%A
 
 [<img src="https://avatars.githubusercontent.com/u/116957755?v=4 " width=115><br><sub>timmp2</sub>](https://github.com/timmp2) 
 
-[<img src="https://avatars.githubusercontent.com/u/61246720?v=4 " width=115><br><sub>AndersonMichelKnoth</sub>](https://github.com/AndersonMichelKnoth) 
-
 [<img src="https://avatars.githubusercontent.com/u/109868628?v=4" width=115><br><sub>EronRodrigues</sub>](https://github.com/EronRodrigues)
 
 [<img src="https://avatars.githubusercontent.com/u/105560431?v=4" width=115><br><sub>Diana-Baldo</sub>](https://github.com/Diana-Baldo) 
